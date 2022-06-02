@@ -1,6 +1,4 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na <a href="http://www.fatecsp.br/">FATEC</a>.
